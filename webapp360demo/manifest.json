@@ -1,12 +1,12 @@
 {
   "slug": "webapp360demo",
   "name": "Blu Zetta Demo Site Configs",
-  "version": "1.0.3",
-  "download_url": "https://raw.githubusercontent.com/Blu-Zetta/updates/main/webapp360demo/webapp360demo-v1.0.3.zip",
-  "html_url": "https://github.com/Blu-Zetta/demos/releases/tag/v1.0.3",
-  "published_at": "2026-03-02T19:09:45Z",
+  "version": "1.0.4",
+  "download_url": "https://raw.githubusercontent.com/Blu-Zetta/updates/main/webapp360demo/webapp360demo-v1.0.4.zip",
+  "html_url": "https://github.com/Blu-Zetta/demos/releases/tag/v1.0.4",
+  "published_at": "2026-03-02T19:24:46Z",
   "description": "Demo site configuration toolkit for Blu Zetta client mockups, including fast template swaps, brand assets, and page settings. App by Blu Zetta.",
-  "changelog": "Release v1.0.3",
+  "changelog": "Release v1.0.4",
   "requires": "6.0",
   "tested": "6.6",
   "requires_php": "7.4"
